@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "MetroGym",
+    "slug": "metrogym",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.metrogym.app"
+    }
+  }
+}
