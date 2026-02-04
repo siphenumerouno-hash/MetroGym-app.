@@ -1,0 +1,7 @@
+{
+  "name": "METROGYM",
+  "description": "A premium gym journal for tracking sessions, building templates, and community sharing. Features a signature black and yellow aesthetic with advanced timer tracking and progress visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
